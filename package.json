@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-idamax",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Find the index of the first element having the maximum absolute value.",
   "license": "Apache-2.0",
   "author": {
