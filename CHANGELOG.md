@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-10-02)
+## Unreleased (2024-10-18)
 
 <section class="features">
 
@@ -35,6 +35,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`3ab8221`](https://github.com/stdlib-js/stdlib/commit/3ab82210f8241550f61dfc491345ee1ebd9bcf2f) - **docs:** fix note _(by Athan Reines)_
 -   [`86b103d`](https://github.com/stdlib-js/stdlib/commit/86b103d5332a58ad6e6a7c254453587460e5c021) - **feat:** update JavaScript implementation and add C `ndarray` implementation for `blas/base/idamax` [(#2980)](https://github.com/stdlib-js/stdlib/pull/2980) _(by Aman Bhansali, Athan Reines)_
 -   [`e379b5c`](https://github.com/stdlib-js/stdlib/commit/e379b5cca26575571292841842a35a78d06f9ebd) - **test:** fix missing argument _(by Athan Reines)_
 -   [`35cbdfb`](https://github.com/stdlib-js/stdlib/commit/35cbdfbbd0d8144b188bb95d56ec9f4719cc2bc5) - **feat:** add support for negative strides in `idamax` and `isamax` [(#2793)](https://github.com/stdlib-js/stdlib/pull/2793) _(by Pranav Goswami)_
