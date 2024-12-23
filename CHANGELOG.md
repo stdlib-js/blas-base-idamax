@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-13)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -35,6 +35,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`5cb36ef`](https://github.com/stdlib-js/stdlib/commit/5cb36ef4c6f8158585ac88867a8dec21ed3fa372) - **docs:** update related packages sections [(#3890)](https://github.com/stdlib-js/stdlib/pull/3890) _(by stdlib-bot)_
 -   [`3ab8221`](https://github.com/stdlib-js/stdlib/commit/3ab82210f8241550f61dfc491345ee1ebd9bcf2f) - **docs:** fix note _(by Athan Reines)_
 -   [`86b103d`](https://github.com/stdlib-js/stdlib/commit/86b103d5332a58ad6e6a7c254453587460e5c021) - **feat:** update JavaScript implementation and add C `ndarray` implementation for `blas/base/idamax` [(#2980)](https://github.com/stdlib-js/stdlib/pull/2980) _(by Aman Bhansali, Athan Reines)_
@@ -51,10 +52,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aman Bhansali
 -   Athan Reines
+-   Philipp Burckhardt
 -   Pranav Goswami
 
 </section>
