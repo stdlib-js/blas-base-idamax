@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-07)
+## Unreleased (2025-04-25)
 
 <section class="features">
 
@@ -16,6 +16,16 @@
 </section>
 
 <!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`05e83e1`](https://github.com/stdlib-js/stdlib/commit/05e83e1582cfeef43b39227e4a5c891f9934d1c0) - resolve typo in include guard
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="issues">
 
@@ -35,6 +45,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`05e83e1`](https://github.com/stdlib-js/stdlib/commit/05e83e1582cfeef43b39227e4a5c891f9934d1c0) - **fix:** resolve typo in include guard _(by Philipp Burckhardt)_
+-   [`366925e`](https://github.com/stdlib-js/stdlib/commit/366925e14f08852288d1422041d5613c1aaddb28) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`5cb36ef`](https://github.com/stdlib-js/stdlib/commit/5cb36ef4c6f8158585ac88867a8dec21ed3fa372) - **docs:** update related packages sections [(#3890)](https://github.com/stdlib-js/stdlib/pull/3890) _(by stdlib-bot)_
 -   [`3ab8221`](https://github.com/stdlib-js/stdlib/commit/3ab82210f8241550f61dfc491345ee1ebd9bcf2f) - **docs:** fix note _(by Athan Reines)_
