@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-12-05)
+## 0.1.0 (2026-01-29)
 
 <section class="features">
 
@@ -45,6 +45,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`72cb0d7`](https://github.com/stdlib-js/stdlib/commit/72cb0d719966736444cda29320021f5cc74090cd) - **bench:** refactor to use dynamic memory allocation in `blas/base/idamax` [(#8815)](https://github.com/stdlib-js/stdlib/pull/8815) _(by Krishna Awasthi)_
 -   [`11f3cfa`](https://github.com/stdlib-js/stdlib/commit/11f3cfa5a658d7cb105aeb2578b7d72ea62f1e97) - **refactor:** update include header guards for double precision real packages [(#7711)](https://github.com/stdlib-js/stdlib/pull/7711) _(by Shabareesh Shetty)_
 -   [`09c9ceb`](https://github.com/stdlib-js/stdlib/commit/09c9ceb58c6dd23c10f1980094851983c57d693f) - **chore:** fix formatting _(by Athan Reines)_
