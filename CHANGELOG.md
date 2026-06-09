@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-02)
+## Unreleased (2026-06-09)
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#11852](https://github.com/stdlib-js/stdlib/issues/11852)
+[#11852](https://github.com/stdlib-js/stdlib/issues/11852), [#12722](https://github.com/stdlib-js/stdlib/issues/12722)
 
 </section>
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`310690f`](https://github.com/stdlib-js/stdlib/commit/310690f5ceaf3ec1d7cae82e66a4748dec4c6781) - **chore:** fix JavaScript lint errors [(#12731)](https://github.com/stdlib-js/stdlib/pull/12731) _(by Suyog, Athan Reines)_
 -   [`c7a6b5c`](https://github.com/stdlib-js/stdlib/commit/c7a6b5c8415f4a1a0da6d3a08ef6dffd93d21590) - **chore:** fix JavaScript lint errors [(#11865)](https://github.com/stdlib-js/stdlib/pull/11865) _(by Clinton Phillips)_
 -   [`f9d1409`](https://github.com/stdlib-js/stdlib/commit/f9d140985e169d34f4e66bd770dc675ea28588a3) - **docs:** add missing JSDoc comment _(by Athan Reines)_
 -   [`cae80a6`](https://github.com/stdlib-js/stdlib/commit/cae80a65d0b09b4edb6f0f26e35918133bdb03fc) - **bench:** use string interpolation in `blas/base/idamax` [(#10637)](https://github.com/stdlib-js/stdlib/pull/10637) _(by Om-A-osc)_
@@ -38,11 +39,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Clinton Phillips
 -   Om-A-osc
+-   Suyog
 
 </section>
 
